@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Machine learning and Deep learning projects**
 
-- 🌱 I’m currently learning **Flask**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **guthalavijay3@gmail.com**
