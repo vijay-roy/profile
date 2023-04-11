@@ -1,9 +1,9 @@
 # profile
-<h1 align="center">Hi 👋, I'm Srikanth kalla</h1>
+<h1 align="center">Hi 👋, I'm vijay guthala</h1>
 
 <h3 align="center">I’m a passionate Data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kallasrikanth1999&label=Profile%20views&color=0e75b6&style=flat" alt="kallasrikanth1999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kallasrikanth1999&label=Profile%20views&color=0e75b6&style=flat" alt="vijay guthala2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kallasrikanth1999" alt="kallasrikanth1999" /></a> </p>
 
